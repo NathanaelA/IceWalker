@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.20",
+	"EngineAssociation": "{95BEE067-4F7C-767A-BAE3-088435DCC185}",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -12,13 +12,5 @@
 				"Engine"
 			]
 		}
-	],
-	"TargetPlatforms": [
-		"AllDesktop",
-		"HTML5",
-		"LinuxNoEditor",
-		"Lumin",
-		"MacNoEditor",
-		"WindowsNoEditor"
 	]
 }
